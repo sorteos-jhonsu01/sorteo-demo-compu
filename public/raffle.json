@@ -1,0 +1,17 @@
+{
+  "slug": "sorteo-demo-compu",
+  "title": "Sorteo Demo",
+  "description": "Gane el mas suertudo",
+  "prize": "Un computador",
+  "priceCents": 1000000,
+  "currency": "COP",
+  "numberRange": {
+    "min": 0,
+    "max": 999
+  },
+  "startsAt": "2026-07-15T05:36:46.747Z",
+  "endsAt": "2026-08-14T05:36:46.747Z",
+  "minSoldToDraw": 500,
+  "status": "ACTIVE",
+  "winner": null
+}
