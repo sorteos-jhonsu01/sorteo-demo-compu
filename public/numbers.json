@@ -1,5 +1,5 @@
 {
-  "version": "2026-07-15T17:24:45.491Z",
+  "version": "2026-07-15T17:24:50.318Z",
   "sold": [
     {
       "number": 800,
@@ -48,12 +48,6 @@
       "buyer": "Bot M.",
       "purchasedAt": "2026-07-15T06:11:04.859Z",
       "verifiedAt": "2026-07-15T14:54:53.216Z"
-    },
-    {
-      "number": 813,
-      "buyer": "Bot M.",
-      "purchasedAt": "2026-07-15T06:11:05.202Z",
-      "verifiedAt": "2026-07-15T14:55:04.993Z"
     },
     {
       "number": 814,
