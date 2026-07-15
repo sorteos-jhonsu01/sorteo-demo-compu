@@ -1,17 +1,11 @@
 {
-  "version": "2026-07-15T17:24:39.270Z",
+  "version": "2026-07-15T17:24:45.491Z",
   "sold": [
     {
       "number": 800,
       "buyer": "Bot M.",
       "purchasedAt": "2026-07-15T06:11:00.560Z",
       "verifiedAt": "2026-07-15T14:54:58.366Z"
-    },
-    {
-      "number": 801,
-      "buyer": "Bot M.",
-      "purchasedAt": "2026-07-15T06:11:00.941Z",
-      "verifiedAt": "2026-07-15T14:54:43.776Z"
     },
     {
       "number": 803,
