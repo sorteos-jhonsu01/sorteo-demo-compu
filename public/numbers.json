@@ -1,0 +1,77 @@
+{
+  "version": "2026-07-15T15:37:53.216Z",
+  "sold": [
+    {
+      "number": 570,
+      "buyer": "Jhon S.",
+      "purchasedAt": "2026-07-15T05:55:06.469Z",
+      "verifiedAt": "2026-07-15T05:57:24.556Z"
+    },
+    {
+      "number": 800,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:00.560Z",
+      "verifiedAt": "2026-07-15T14:54:58.366Z"
+    },
+    {
+      "number": 801,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:00.941Z",
+      "verifiedAt": "2026-07-15T14:54:43.776Z"
+    },
+    {
+      "number": 803,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:01.647Z",
+      "verifiedAt": "2026-07-15T14:54:45.048Z"
+    },
+    {
+      "number": 804,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:02.016Z",
+      "verifiedAt": "2026-07-15T14:54:55.482Z"
+    },
+    {
+      "number": 805,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:02.366Z",
+      "verifiedAt": "2026-07-15T14:54:45.897Z"
+    },
+    {
+      "number": 807,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:03.083Z",
+      "verifiedAt": "2026-07-15T14:54:47.542Z"
+    },
+    {
+      "number": 808,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:03.445Z",
+      "verifiedAt": "2026-07-15T14:55:01.399Z"
+    },
+    {
+      "number": 809,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:03.788Z",
+      "verifiedAt": "2026-07-15T14:54:48.704Z"
+    },
+    {
+      "number": 812,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:04.859Z",
+      "verifiedAt": "2026-07-15T14:54:53.216Z"
+    },
+    {
+      "number": 813,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:05.202Z",
+      "verifiedAt": "2026-07-15T14:55:04.993Z"
+    },
+    {
+      "number": 814,
+      "buyer": "Bot M.",
+      "purchasedAt": "2026-07-15T06:11:05.541Z",
+      "verifiedAt": "2026-07-15T14:54:54.445Z"
+    }
+  ]
+}
